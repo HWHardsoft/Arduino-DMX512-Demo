@@ -16,14 +16,10 @@ The connection to the RS485 shield is made according to the connection diagrams 
 ## Jumper setting 
 JP1: 5V
 
-Jumper setting for UNO R4:
+Jumper setting for Arduino UNO R3 and R4:
 
-![Jumper UNO R4](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_R4.png)
+![Jumper UNO R4](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_DMX.png)
  
- 
-Jumper setting for UNO R3:
-
-![Jumper UNO R3](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_R3.png)
 
 ## DIP Switch setting
 S1: OFF-ON-ON-OFF
