@@ -2,7 +2,7 @@
 How use the RS485 Shield for DMX512 lighting control
 
 
-![Modbus Relay Demo](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/test_setup.jpg)
+![DMX512 Demo]](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/DMX_Arduino.jpg)
 
 ## Wiring
 In this tutorial, we want to implement a Modbus RTU master and a slave that can communicate with each other. Therefore, we need two Arduino Uno R4s (the good old Rev3 will also work), two RS485 shields, and a few LEDs and buttons connected to the master and slave so that something ‘happens’. 
