@@ -5,11 +5,12 @@ How use the RS485 Shield for DMX512 lighting control
 ![DMX512 Demo](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/DMX_Arduino.jpg)
 
 ## Wiring
-In this tutorial, we want to implement a Modbus RTU master and a slave that can communicate with each other. Therefore, we need two Arduino Uno R4s (the good old Rev3 will also work), two RS485 shields, and a few LEDs and buttons connected to the master and slave so that something ‘happens’. 
-The RS485 uses two lines for signal transmission. These two signals are often labeled A and B on RS485 devices. Unfortunately, the use of the letters A and B is not uniformly regulated. In the RS485 Shield, "A" means R+/T+ (also known as D+) and "B" means R-/T- (also known as D-). This may also differ for other devices. For our test setup, we need to connect the two A terminals and the two B terminals of the shields via cables. 
-Furthermore, an LED and push button are connected to both the master and slave via a small breadboard, for example, in accordance with the circuit diagram below. 
+The current DMX standard specifies five-pin XLR connectors. From an electrical point of view, however, these function in exactly the same way as the three-pin connectors, provided that the DMX device still supports the DMX512 standard. (The free contact pair pins 4 and 5 are only used in the DMX512-A standard.)
+The connection to the RS485 shield is made according to the connection diagrams below.
 
-![Button and LED](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Scheme_of_setup.png)
+![3WireDMX]
+
+![5WireDMX]
 
 
 ## Jumper setting 
