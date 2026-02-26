@@ -39,7 +39,7 @@ S3: ON-OFF-ON-ON
 ## Essential Libraries
 Arduino's own RS485 and DMX libraries needed: 
 
-![Library installation](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/install_cbs_modbus_libs.png)
+![Library installation](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/DMX%20lib%20Arduino.png)
 
 ## How it works
 [![in Action](https://img.youtube.com/vi/k-JCyvRe9ms/0.jpg)](https://www.youtube.com/watch?v=k-JCyvRe9ms)
