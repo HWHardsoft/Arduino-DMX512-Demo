@@ -42,7 +42,7 @@ Arduino's own RS485 and DMX libraries needed:
 ![Library installation](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/install_cbs_modbus_libs.png)
 
 ## How it works
-[![in Action](https://img.youtube.com/vi/MqWqR2RyUSY/0.jpg)](https://www.youtube.com/watch?v=MqWqR2RyUSY)
+[![in Action](https://img.youtube.com/vi/k-JCyvRe9ms/0.jpg)](https://www.youtube.com/watch?v=k-JCyvRe9ms)
 
 
 
