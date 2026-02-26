@@ -18,7 +18,7 @@ JP1: 5V
 
 Jumper setting for Arduino UNO R3 and R4:
 
-![Jumper UNO R4](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_DMX.png)
+![Jumper UNO R4](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/Jumper_setting_UNO_DMX.png)
  
 
 ## DIP Switch setting
