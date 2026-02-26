@@ -8,9 +8,9 @@ How use the RS485 Shield for DMX512 lighting control
 The current DMX standard specifies five-pin XLR connectors. From an electrical point of view, however, these function in exactly the same way as the three-pin connectors, provided that the DMX device still supports the DMX512 standard. (The free contact pair pins 4 and 5 are only used in the DMX512-A standard.)
 The connection to the RS485 shield is made according to the connection diagrams below.
 
-![3WireDMX]
+![3WireDMX](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/DMX3_wiring.jpg)
 
-![5WireDMX]
+![5WireDMX](https://github.com/HWHardsoft/Arduino-DMX512-Demo/blob/main/assets/DMX5_wiring.jpg)
 
 
 ## Jumper setting 
